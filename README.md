@@ -1,2 +1,3 @@
 # AtCoder
-My Submission on AtCoder
+AtCoderで提出したプログラムの保管場所
+基本的にはpythonプログラムで記述予定
